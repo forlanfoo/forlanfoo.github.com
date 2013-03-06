@@ -1,0 +1,7 @@
+---
+layout: post
+title: "first_post_2012-03-06"
+date: 2013-03-06 11:33
+comments: true
+categories: 
+---
